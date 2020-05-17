@@ -1,5 +1,5 @@
-MIT License
-===========
+LICENSE
+=======
 MIT License
 
 Copyright (c) 2020 Sachin Wakle
